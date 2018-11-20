@@ -1,0 +1,1 @@
+-isystem C:/Users/rootreddragon/CLionProjects/lab1final/lib/googletest/googletest/include -IC:/Users/rootreddragon/CLionProjects/lab1final/lib/googletest/googlemock/include -isystem C:/Users/rootreddragon/CLionProjects/lab1final/lib/googletest/googletest 
